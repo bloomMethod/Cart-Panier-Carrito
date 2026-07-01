@@ -1,0 +1,1 @@
+Le projet Panier a été réalisé en utilisant uniquement la logique de JavaScript. Pour ce qui concerne la structure du site, j'ai employé HTML. Les propriétés CSS n'ont pas été utilisées pour améliorer le rendu final.
